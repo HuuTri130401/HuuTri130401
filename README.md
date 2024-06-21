@@ -30,10 +30,26 @@
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuuTri130401&repo=FTA_UniFarm&theme=vue)](https://github.com/HuuTri130401/FTA_UniFarm)-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuuTri130401&repo=FTA_UniFarm&theme=react)](https://github.com/HuuTri130401/FTA_UniFarm)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuuTri130401&repo=FA_Training_System&theme=react)](https://github.com/HuuTri130401/FA_Training_System)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuuTri130401&repo=Exe-Pro-Tracking&theme=react)](https://github.com/HuuTri130401/Exe-Pro-Tracking)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuuTri130401&repo=Book-Store&theme=react)](https://github.com/HuuTri130401/Book-Store)
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="margin-right: 10px;">
+        <a href="https://github.com/HuuTri130401/FTA_UniFarm">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuuTri130401&repo=FTA_UniFarm&theme=react" alt="FTA_UniFarm">
+        </a>
+    </div>
+    <div style="margin-right: 10px;">
+        <a href="https://github.com/HuuTri130401/FA_Training_System">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuuTri130401&repo=FA_Training_System&theme=react" alt="FA_Training_System">
+        </a>
+    </div>
+    <div style="margin-right: 10px;">
+        <a href="https://github.com/HuuTri130401/Exe-Pro-Tracking">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuuTri130401&repo=Exe-Pro-Tracking&theme=react" alt="Exe-Pro-Tracking">
+        </a>
+    </div>
+    <div style="margin-right: 10px;">
+        <a href="https://github.com/HuuTri130401/Book-Store">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuuTri130401&repo=Book-Store&theme=react" alt="Book-Store">
+        </a>
+    </div>
+</div>
