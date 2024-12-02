@@ -9,12 +9,12 @@
 ## 🛠 Languages
 - Java
 - C#
-- C
+- Python
 
 ## 🧰 Technologies
 - Spring Boot
 - ASP.NET Core (MVC, Razor Pages, API)
-
+- Fast API
 ## 🗃️️️ Databases
 - MS SQL Server
 - MySQL
