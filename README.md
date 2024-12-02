@@ -59,7 +59,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=HuuTri130401&theme=tokyonight&show_icons=true" alt="Anurag's GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=HuuTri130401&theme=tokyonight&show_icons=true&include_all_commits=true" alt="Anurag's GitHub stats">
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuuTri130401&layout=compact&theme=slateorange" alt="Most Used Languages">
