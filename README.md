@@ -72,7 +72,7 @@
   </tr>
 </table>
 
-
+<!--
 ## Projects
 
 <table>
@@ -101,4 +101,5 @@
     </td>
   </tr>
 </table>
+-->
 
